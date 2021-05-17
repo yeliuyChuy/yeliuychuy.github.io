@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "30DE6991-59D7-43FB-9A4C-C069D5DC7EC6"
+		"uuidString": "A334E912-127F-4933-92D5-AD8E55A35FBF"
 		}
 	],
 "creatorBuild": "32186",
@@ -1179,199 +1179,17 @@
 		"oS": 0,
 		"sct": 1
 		},
-	"/theme-1.scss": {
-		"aP": 0,
+	"/devresume.scss": {
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/Users/Riley/Sites/htdocs/devblog-theme-bs4/devblog-theme-git/assets/css/theme-1.css",
+		"oAP": "/Users/Riley/Sites/htdocs/devresume-theme/devresume-theme-git/assets/css/devresume.css",
 		"oF": 6,
 		"oS": 3,
-		"sct": 1
-		},
-	"/theme-2.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/Users/Riley/Sites/htdocs/devblog-theme-bs4/devblog-theme-git/assets/css/theme-2.css",
-		"oF": 6,
-		"oS": 3,
-		"sct": 1
-		},
-	"/theme-3.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/Users/Riley/Sites/htdocs/devblog-theme-bs4/devblog-theme-git/assets/css/theme-3.css",
-		"oF": 6,
-		"oS": 3,
-		"sct": 1
-		},
-	"/theme-4.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/Users/Riley/Sites/htdocs/devblog-theme-bs4/devblog-theme-git/assets/css/theme-4.css",
-		"oF": 6,
-		"oS": 3,
-		"sct": 1
-		},
-	"/theme-5.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/Users/Riley/Sites/htdocs/devblog-theme-bs4/devblog-theme-git/assets/css/theme-5.css",
-		"oF": 6,
-		"oS": 3,
-		"sct": 1
-		},
-	"/theme-6.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/Users/Riley/Sites/htdocs/devblog-theme-bs4/devblog-theme-git/assets/css/theme-6.css",
-		"oF": 6,
-		"oS": 3,
-		"sct": 1
-		},
-	"/theme-7.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/Users/Riley/Sites/htdocs/devblog-theme-bs4/devblog-theme-git/assets/css/theme-7.css",
-		"oF": 6,
-		"oS": 3,
-		"sct": 1
-		},
-	"/theme-8.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/Users/Riley/Sites/htdocs/devblog-theme-bs4/devblog-theme-git/assets/css/theme-8.css",
-		"oF": 6,
-		"oS": 3,
-		"sct": 1
-		},
-	"/theme/_about.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/theme/_about.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 1
-		},
-	"/theme/_base.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/theme/_base.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 1
-		},
-	"/theme/_blog.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/theme/_blog.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 1
-		},
-	"/theme/_demo.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/theme/_demo.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 1
-		},
-	"/theme/_mixins.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/theme/_mixins.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 1
-		},
-	"/theme/_responsive.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/theme/_responsive.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 1
-		},
-	"/theme/styles.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/theme/styles.css",
-		"oF": 0,
-		"oS": 0,
 		"sct": 1
 		}
 	},
@@ -1380,10 +1198,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 548081590,
-	"displayValue": "DevBlog Theme Git",
+	"creationDate": 576670574.62582302,
+	"displayValue": "DevResume Theme Git",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-kahn",
+	"iconImageName": "meme-ariel",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
@@ -1874,7 +1692,7 @@
 			},
 		"camelcase": {
 			"active": 0,
-			"optionString": "{'properties': 'always'}"
+			"optionString": "{'properties': 'always', 'ignoreDestructuring': false}"
 			},
 		"capitalized-comments": {
 			"active": 0,
@@ -1958,11 +1776,11 @@
 			},
 		"func-name-matching": {
 			"active": 0,
-			"optionString": "'always', {'includeCommonJSModuleExports': false}"
+			"optionString": "'always', {'considerPropertyDescriptor': false, 'includeCommonJSModuleExports': false}"
 			},
 		"func-names": {
 			"active": 0,
-			"optionString": "'always'"
+			"optionString": "'always', {'generators': 'always'}"
 			},
 		"func-style": {
 			"active": 0,
@@ -2006,7 +1824,7 @@
 			},
 		"id-match": {
 			"active": 0,
-			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true, 'ignoreDestructuring': false}"
 			},
 		"implicit-arrow-linebreak": {
 			"active": 0,
@@ -2498,7 +2316,7 @@
 			},
 		"no-self-assign": {
 			"active": 1,
-			"optionString": "{'props': false}"
+			"optionString": "{'props': true}"
 			},
 		"no-self-compare": {
 			"active": 0,
@@ -2530,7 +2348,7 @@
 			},
 		"no-tabs": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "{allowIndentationTabs: false}"
 			},
 		"no-template-curly-in-string": {
 			"active": 0,
@@ -2670,7 +2488,7 @@
 			},
 		"object-curly-newline": {
 			"active": 0,
-			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
+			"optionString": "{'ObjectExpression': {'multiline': true, 'consistent': true}, 'ObjectPattern': {'multiline': true, 'consistent': true}}"
 			},
 		"object-curly-spacing": {
 			"active": 0,
@@ -3578,7 +3396,7 @@
 			"flagValue": -1
 			},
 		"dead_code": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"directives": {
@@ -3610,7 +3428,7 @@
 			"flagValue": -1
 			},
 		"hoist_funs": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"hoist_props": {
@@ -3654,7 +3472,7 @@
 			"flagValue": -1
 			},
 		"keep_fargs": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"keep_fnames": {
@@ -3782,7 +3600,7 @@
 			"flagValue": -1
 			},
 		"unused": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"warnings": {
@@ -3799,7 +3617,7 @@
 			}
 		},
 	"uglifyMangleNames": 1,
-	"uglifyReservedNamesString": "$",
+	"uglifyReservedNamesString": "$,exports,require",
 	"websiteRelativeRoot": ""
 	},
 "settingsFileVersion": "3"
